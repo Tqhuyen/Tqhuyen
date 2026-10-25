@@ -8,7 +8,7 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
-  <img alt="Trần Quang Huyên, computer engineer and AI researcher from Vietnam: deep learning for medical imaging and quantum machine learning, plus LLM agents and tools that make learning accessible." src="assets/hero-light.png" width="100%">
+  <img alt="Trần Quang Huyên, AI research scientist and AI engineer from Vietnam: IEEE papers in quantum machine learning and medical imaging, and 4+ years shipping GenAI, vision and voice AI." src="assets/hero-light.png" width="100%">
 </picture>
 </p>
 
@@ -23,14 +23,15 @@
 
 ## About
 
-- **Research:** deep learning for medical imaging (glaucoma detection from 3D OCT scans, brain tumor segmentation from MRI) and quantum self-attention for Vision Transformers.
-- **Building:** LLM agents, and tools that make learning accessible.
+- **Research:** deep learning for medical imaging (glaucoma classification from 3D OCT scans, brain tumor segmentation from MRI) and quantum self-attention for Vision Transformers.
+- **Industry:** 4+ years as an AI engineer at Everfit and Hekate, taking GenAI, vision-language, voice and medical AI from R&D to production.
+- **Building:** LLM agents and tools that make learning accessible.
 - **Writing:** essays on education and tech, in Vietnamese, on [Substack](https://tqhuyen.substack.com/).
 
 ## Featured work
 
 <p>
-<a href="https://github.com/Tqhuyen/glaucoma-thesis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-glaucoma-dark.png"><img alt="glaucoma-thesis, Master's thesis: 3D CNN that detects glaucoma in raw OCT volumes, trained by one PyTorch pipeline that runs from Colab to a multi-node SLURM cluster." src="assets/card-glaucoma-light.png" width="420"></picture></a>
+<a href="https://github.com/Tqhuyen/glaucoma-thesis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-glaucoma-dark.png"><img alt="glaucoma-thesis, master’s thesis: 3D CNN that classifies glaucoma from raw OCT volumes, trained by one PyTorch pipeline that runs from Colab to a multi-node SLURM cluster." src="assets/card-glaucoma-light.png" width="420"></picture></a>
 <a href="https://github.com/Tqhuyen/Quantum-Self-Attention"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-quantum-dark.png"><img alt="Quantum-Self-Attention, IEEE paper (2025): efficient circuit classifiers that strengthen quantum self-attention in Vision Transformers, built with PennyLane." src="assets/card-quantum-light.png" width="420"></picture></a>
 <a href="https://github.com/Tqhuyen/phd-search-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-phd-agent-dark.png"><img alt="phd-search-agent, AI agent: harness-driven workflows that find PhD positions and labs, score the fit, and draft tailored applications." src="assets/card-phd-agent-light.png" width="420"></picture></a>
 <a href="https://github.com/Tqhuyen/educational-platform-for-disabilities"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-edu-dark.png"><img alt="educational-platform-for-disabilities, accessible EdTech: a Next.js learning platform for Vietnamese students with speech and language disabilities." src="assets/card-edu-light.png" width="420"></picture></a>
@@ -41,7 +42,7 @@
 ## Research
 
 **Efficient Circuit Classifier Design for Enhancing Quantum Self-Attention in Vision Transformers**<br>
-**Huyen Quang Tran**, Yu-Han Lin, Hanh Thi Minh Tran, Duy-Tuan Dao, Van-Linh Nguyen · IEEE Globecom Workshops (GC Wkshps), 2025<br>
+**Huyen Quang Tran**, Yu-Han Lin, Hanh Thi Minh Tran, Duy-Tuan Dao, Van-Linh Nguyen · IEEE Globecom Workshops (GC Wkshps), pp. 170–175, 2025<br>
 [Paper](https://ieeexplore.ieee.org/document/11591004) · [Code](https://github.com/Tqhuyen/Quantum-Self-Attention)
 
 **Comparative Analysis of Deep Learning Architectures for Brain Tumor Segmentation**<br>
@@ -52,7 +53,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
-  <img alt="Toolbox. Languages: Python, TypeScript, JavaScript, C++, C, C#, Dart, PHP, Bash, MATLAB. AI and research: PyTorch, TensorFlow, PennyLane, PaddleOCR, Jupyter, Weights and Biases, LaTeX. Apps and tools: React, Next.js, Node.js, Redux, Flask, Flutter, Android, Selenium, Arduino, Blender, Git. Infra and data: Docker, Kubernetes, AWS, GCP, Linux, SLURM, Nginx, MySQL, MongoDB, Grafana." src="assets/stack-light.png" width="100%">
+  <img alt="Toolbox. AI and machine learning: PyTorch, TensorFlow, Hugging Face Transformers, LangChain, LlamaIndex, OpenCV, vLLM. MLOps and cloud: AWS, GCP, Docker, Kubernetes, MLflow, Weights and Biases, Jenkins, GitLab CI/CD. Data and backend: PostgreSQL, MongoDB, Redis, FastAPI, Apache Kafka. Programming: Python, C++, SQL, JavaScript." src="assets/stack-light.png" width="100%">
 </picture>
 
 ## Activity
