@@ -22,7 +22,7 @@
 
 ## About
 
-- **Research:** deep learning for medical imaging (3D CNNs on retinal OCT scans) and quantum self-attention for Vision Transformers.
+- **Research:** deep learning for medical imaging (glaucoma detection from 3D OCT scans, brain tumor segmentation from MRI) and quantum self-attention for Vision Transformers.
 - **Building:** LLM agents, and tools that make learning accessible.
 - **Writing:** essays on education and tech, in Vietnamese, on [Substack](https://tqhuyen.substack.com/).
 
@@ -40,8 +40,12 @@
 ## Research
 
 **Efficient Circuit Classifier Design for Enhancing Quantum Self-Attention in Vision Transformers**<br>
-**Quang-Huyen Tran**, Yu-Han Lin, Hanh T. M. Tran, Duy-Tuan Dao, Van-Linh Nguyen · IEEE, 2025<br>
+**Huyen Quang Tran**, Yu-Han Lin, Hanh Thi Minh Tran, Duy-Tuan Dao, Van-Linh Nguyen · IEEE Globecom Workshops (GC Wkshps), 2025<br>
 [Paper](https://ieeexplore.ieee.org/document/11591004) · [Code](https://github.com/Tqhuyen/Quantum-Self-Attention)
+
+**Comparative Analysis of Deep Learning Architectures for Brain Tumor Segmentation**<br>
+**Huyen Quang Tran**, Hieu Pham, Phuc Ho, Hanh Thi Minh Tran · International Conference on Advanced Technologies for Communications (ATC), 2025<br>
+[Paper](https://ieeexplore.ieee.org/document/11268774) · [Code](https://github.com/PhamDoanMinhHieu/Comparative-Analysis-of-Deep-Learning-Architectures-for-Brain-Tumor-Segmentation)
 
 ## Toolbox
 
