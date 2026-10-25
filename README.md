@@ -66,11 +66,9 @@
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->
 - [Những suy nghĩ của tôi về vấn đề giáo dục](https://tqhuyen.substack.com/p/nhung-suy-nghi-cua-toi-ve-van-e-giao) <sub>· Oct 3, 2026</sub>
 - [Cử nhân khó làm việc: Đừng biến đại học thành trường dạy nghề](https://tqhuyen.substack.com/p/cu-nhan-kho-lam-viec-ung-bien-ai) <sub>· Oct 3, 2026</sub>
 - [Cách dùng API của League of Legends](https://tqhuyen.substack.com/p/cach-dung-api-cua-league-of-legends) <sub>· Apr 25, 2025</sub>
-<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tqhuyen&label=profile%20views&color=16a34a&style=flat-square">
