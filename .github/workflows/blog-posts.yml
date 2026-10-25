@@ -12,7 +12,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://tqhuyen.substack.com/feed"
@@ -20,3 +20,6 @@ jobs:
           template: "- [$title]($url) <sub>· $date</sub>$newline"
           date_format: "mmm d, yyyy"
           commit_message: "docs: refresh latest blog posts"
+          # Substack answers the default "rss-parser" agent with 403.
+          user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+          accept_header: "application/rss+xml, application/xml;q=0.9, */*;q=0.8"
